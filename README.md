@@ -2,7 +2,10 @@
 
 ## Project Overview
 
-This project is designed to analyze and process hotel data, including room types, prices, number of guests, and taxes. The primary functions of the project involve loading data from a JSON file, identifying the room with the lowest price, calculating total prices (including taxes) for each room, and saving the results to a text file.
+This project is designed to analyze and process hotel data, including room types, prices, 
+number of guests, and taxes. The primary functions of the project involve loading data 
+from a JSON file, identifying the room with the lowest price, calculating total prices 
+(including taxes) for each room, and saving the results to a text file.
 
 ## Features
 
